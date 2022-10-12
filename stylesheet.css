@@ -1,0 +1,26 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif
+}
+/*Header styling*/
+header {
+    color: white;
+    background-color: #1f2937;
+}
+.logo {
+    font-size: 24px;
+    font-weight: 800;
+    
+}
+li{
+    list-style: none;
+    display: inline-flex;
+    margin-right: 10px
+}
+.links a{
+    text-decoration: none;
+    color: #e5e7eb;
+    font-size: 18px;     
+}
