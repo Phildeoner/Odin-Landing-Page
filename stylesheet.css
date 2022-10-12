@@ -131,3 +131,29 @@ li{
     font-weight: lighter;
 }
 
+/*Section four styling*/
+.btn-two {
+    background-color: #3882f6;
+    padding: 8px 30px;
+    border-radius: 8px;
+    border: none;
+    color: #f9faf8;
+    border: white 2px solid;
+    cursor: pointer;
+}
+
+.body-four {
+    background-color: #3882f6;
+    color: #f9faf8;
+    max-width: 850px;
+    display: flex;
+    padding: 20px 50px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    gap : 100px;
+    border-radius: 5px;
+}
+.section-four {
+    padding: 80px
+}
