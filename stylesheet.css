@@ -157,3 +157,11 @@ li{
 .section-four {
     padding: 80px
 }
+
+/*Footer styling*/
+.footer {
+    color: white;
+    background-color: #1f2937;
+    padding: 20px;
+    text-align: center;
+}
