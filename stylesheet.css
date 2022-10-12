@@ -24,3 +24,52 @@ li{
     color: #e5e7eb;
     font-size: 18px;     
 }
+/*Section one styling*/
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 150px;
+    padding-right: 140px;
+    padding-top: 20px;
+}
+.body-one {
+    display: flex;
+    justify-content: space-between;
+    padding: 80px 150px;
+    background-color: #1f2937;
+    gap: 20px;
+    color: #f9faf8;   
+}
+.top-box {
+    padding: 70px;
+    background-color: lightslategrey;
+    color: white;
+    width: 500px;
+    
+}
+.top-box p {
+    padding: 30px;
+    text-align: center;
+}
+.text {
+    width: 400px;
+}
+.text h1 {
+    font-weight: 1000;
+    font-size: 48px;
+    color: #f9faf8;
+    line-height: 1;
+    margin-bottom: 10px;
+}
+.text p {
+    color: #e5e7eb;
+    margin-bottom: 10px;
+}
+.btn-one {
+    background-color: #3882f6;
+    padding: 8px 30px;
+    border-radius: 8px;
+    border: none;
+    color: #f9faf8;
+    cursor: pointer;
+}
